@@ -14,5 +14,7 @@ Designed as a TRL2 prototype, the orthosis demonstrates proof-of-concept for low
 Key Features:
 
 ✅ Hardware: Custom PCB for EMG processing (or off-the-shelf modules like MyoWare)
+
 ✅ Software: Signal thresholding, safety controls
+
 ✅ Design: Fusion 360/SolidWorks, biomechanical optimization
